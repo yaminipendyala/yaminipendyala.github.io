@@ -183,12 +183,14 @@ a:focus {
 }
 
 .hero_section-container .hero_img-box {
-  width: 42%;
-  margin-top: -45px;
+  width: 70%;
+  margin-top: -15px;
+  
 }
 
 .hero_section-container .hero_img-box img {
   width: 100%;
+  border-radius: 30px;
 }
 
 .hero_section-container .hero_detail-box {
@@ -252,6 +254,7 @@ a:focus {
 
 .about_img-box img {
   width: 100%;
+  border-radius: 5px;
 }
 
 .about_detail-box p {
@@ -290,10 +293,10 @@ a:focus {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 225px;
-  height: 295px;
-  border-radius: 90px;
-  background-color: #363636;
+  width: 150px;
+  height: 100px;
+  border-radius: 20px;
+  background-color: #ffffff;
 
 }
 
